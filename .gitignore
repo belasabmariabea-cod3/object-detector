@@ -1,0 +1,4 @@
+# Ignore model files to avoid git corruption
+*.pt
+*.pth
+*.onnx
